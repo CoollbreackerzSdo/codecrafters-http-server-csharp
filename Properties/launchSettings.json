@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "codecrafters-http-server": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
